@@ -1,9 +1,6 @@
 # Classic Snake in 4K Windows executable
 
-After watching this:
-    
-    [https://youtu.be/ExwqNreocpg]
-
+After watching [https://youtu.be/ExwqNreocpg](https://youtu.be/ExwqNreocpg)
 I felt challenged, so I recreated a somewhat functional Snake clone in 4K for Windows.
 Quite ugly, quite simplified, quite fast, quite small :)
 
@@ -15,9 +12,9 @@ The resulting executable was created using Visual Studio 2017, but it should be 
 
 Credits: 
 
-- [https://github.com/revivalizer/64klibs](Ralph Brorsen) for his startup code
-- [https://www.iquilezles.org/code/isystem1k4k/isystem1k4k.htm](Inigo Quilez) for the software renderer
-- [https://lvgl.io/tools/imageconverter](LVGL converter) for the title screen conversion to bytes (yes, I am THAT lazy)
+- [Ralph Brorsen](https://github.com/revivalizer/64klibs) for his startup code
+- [Inigo Quilez](https://www.iquilezles.org/code/isystem1k4k/isystem1k4k.htm) for the software renderer
+- [LVGL converter](https://lvgl.io/tools/imageconverter) for the title screen conversion to bytes (yes, I am THAT lazy)
 
 
 Enjoy!
